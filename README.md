@@ -10,6 +10,4 @@ Mostrar meus projetos e evolução na programação.
 - CSS
 
 ## Projetos
-- Lista de tarefas em Python
-- Calculadora
 - Outros projetos em aprendizado
